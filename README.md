@@ -6,6 +6,6 @@
 
 🤝 Open to collaborating on innovative full-stack projects or startups.
 
-📫  You can reach me on [LinkedIn](https://www.linkedin.com/in/armin-nataj-331188320/) or check out my [portfolio](https://arminnataj.ir).
+📫  You can reach me on [LinkedIn](https://www.linkedin.com/in/armin-nataj-331188320/) or check out my [portfolio](https://arminnataj.ir) or [portfolio2](https://armin-portfolio.netlify.app) .
 
 🎮 Fun fact: I’m a night owl, gamer, and always eager to learn something new.
