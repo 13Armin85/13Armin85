@@ -44,7 +44,8 @@ I love transforming ideas into **real, production-ready products** — from smoo
 ## 🧩 Featured Projects
 
 🚀 **Personal Portfolio**
-- 🌐 https://arminnataj.ir  
+- 🌐 https://arminnataj.ir
+-   🌐https://armin-portfolio.netlify.app
 - ⚛️ React / TypeScript  
 - ✨ Clean UI & performance-focused
 
