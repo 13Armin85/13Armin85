@@ -89,3 +89,6 @@ I love transforming ideas into **real, production-ready products** — from smoo
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="380"/>
+</p>
