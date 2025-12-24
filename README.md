@@ -58,12 +58,11 @@ I love transforming ideas into **real, production-ready products** — from smoo
 - https://13armin85.github.io/gym-project
 
 🚀 **WordPress Platforms**
-- chapchapchi.ir (Print Ordering Platform)
-- berkehketab.ir (Online Bookstore)
-- raeesiedu.com (Educational Platform)
-- negahhospital.com
-- goldaneh.ir  
-*(SEO optimized, fast, production-ready)*
+- https://chapchapchi.ir (Print Ordering Platform)
+- https://berkehketab.ir (Online Bookstore)
+- https://raeesiedu.com (Educational Platform)
+- https://negahhospital.com
+- https://goldaneh.ir  
 
 ---
 
