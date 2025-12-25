@@ -88,7 +88,15 @@ I love transforming ideas into **real, production-ready products** — from smoo
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
+<div align="center">
+  <a href="https://nowpayments.io/donation/Armin.N.T.J">
+    <img src="https://media1.tenor.com/m/Is0ELiJnoU0AAAAd/buymeacoffee-button.gif"
+         alt="Donate a coffee"
+         width="220" />
+  </a>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="380"/>
-</p>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+       width="380"
+       style="margin-left: 12px;" />
+</div>
+
