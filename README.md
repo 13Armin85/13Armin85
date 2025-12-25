@@ -33,7 +33,7 @@ I love transforming ideas into **real, production-ready products** — from smoo
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge)
 
-### ⚙️ Tools & DevOps
+### ⚙️ other
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-0EA5E9?style=for-the-badge&logo=docker)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
