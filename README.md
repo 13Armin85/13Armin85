@@ -69,7 +69,8 @@ I love transforming ideas into **real, production-ready products** — from smoo
 ## 🏢 Experience Timeline
 
 ```text
-2025 - Present   Frontend Developer @ Parand Tech Group
+2025 - peresent Frontend Developer @ ISIRAN
+2025            Frontend Developer @ Parand Tech Group
 2024 - 2025     Frontend Developer (Intern) @ Iran Fava Gostaresh
 2024            WordPress Developer @ Iranian Etemad
 2022 - 2023     C# Programming Intern @ Amard
