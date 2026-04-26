@@ -69,7 +69,7 @@ I love transforming ideas into **real, production-ready products** — from smoo
 ## 🏢 Experience Timeline
 
 ```text
-2025 -present   Frontend Developer | ISIRAN
+2025 - 2026     Frontend Developer | ISIRAN
 2025            Frontend Developer | Parand Tech Group
 2024 - 2025     Frontend Developer | Iran Fava Gostaresh
 2024            WordPress Developer | Iranian Etemad
