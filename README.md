@@ -45,7 +45,7 @@ I love transforming ideas into **real, production-ready products** — from smoo
 
 🚀 **Personal Portfolio**
 - 🌐 https://arminnataj.ir
--   🌐https://armin-portfolio.netlify.app
+- 🌐https://armin-portfolio.netlify.app
 - ⚛️ React / TypeScript  
 - ✨ Clean UI & performance-focused
 
@@ -69,12 +69,12 @@ I love transforming ideas into **real, production-ready products** — from smoo
 ## 🏢 Experience Timeline
 
 ```text
-2026 - present  Frontend Developer | Amard
-2025 - 2026     Frontend Developer | ISIRAN
-2025            Frontend Developer | Parand Tech Group
-2024 - 2025     Frontend Developer | Iran Fava Gostaresh
-2024            WordPress Developer | Iranian Etemad
-2022 - 2023     C# Programming Intern | Amard
+2026 - present  Full-Stack Developer | Amard
+2025 - 2026     Full-Stack Developer | ISIRAN
+2025            Frontend Developer   | Parand Tech Group
+2024 - 2025     Frontend Developer   | Iran Fava Gostaresh
+2024            WordPress Developer  | Iranian Etemad
+2022 - 2023     .Net Developer | Amard
 ```
 <p align="center">
   <a href="https://www.linkedin.com/in/armin-nataj-331188320/">
