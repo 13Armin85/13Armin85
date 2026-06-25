@@ -1,7 +1,7 @@
 
 <!-- Hero Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Armin+Nataj;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Django;Clean+Code+%7C+Scalable+Systems;Turning+Ideas+Into+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Armin+Nataj;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Django+%7C+.NET;Clean+Code+%7C+Scalable+Systems;Turning+Ideas+Into+Products" alt="Typing SVG" />
 </p>
 
 ---
