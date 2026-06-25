@@ -1,3 +1,4 @@
+
 <!-- Hero Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Armin+Nataj;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Django;Clean+Code+%7C+Scalable+Systems;Turning+Ideas+Into+Products" alt="Typing SVG" />
@@ -12,11 +13,11 @@
 ## 🧠 About Me
 
 💻 **Full-Stack Developer** with a strong focus on building **scalable, high-performance web applications**  
-⚡ Specialized in **React, Next.js, Django & Django REST Framework**  
+⚡ Specialized in **React, Next.js, Django, Django REST Framework, C# & .NET**  
 🎨 Passionate about **clean UI, maintainable architecture, and elegant code**  
 🌙 Night owl | 🎮 Gamer | 🚀 Always learning
 
-I love transforming ideas into **real, production-ready products** — from smooth front-end experiences to rock-solid back-end systems.
+I love transforming ideas into **real, production-ready products** — from smooth front-end experiences to rock-solid back-end systems using **React, Next.js, Django, C# and .NET**.
 
 ---
 
@@ -32,6 +33,8 @@ I love transforming ideas into **real, production-ready products** — from smoo
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### ⚙️ other
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
